@@ -1,0 +1,1 @@
+cargo run --release -- {path to telegram chat history export json}
